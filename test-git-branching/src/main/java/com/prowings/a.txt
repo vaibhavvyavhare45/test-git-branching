@@ -1,7 +1,6 @@
 
 Hello java  developer ... welcome to git branching
-<<<<<<< HEAD
+
 change in development branch 
-=======
+
 change in development branch ...Another push from another contributor
->>>>>>> branch 'development' of https://github.com/vaibhavvyavhare45/test-git-branching.git
