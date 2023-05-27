@@ -5,4 +5,3 @@ change in development branch
 
 change in development branch ...Another push from  developer3 ...Hello this my final commit
 
-branch 'dev
