@@ -3,4 +3,9 @@ Hello java  developer ... welcome to git branching
 
 change in development branch 
 
+<<<<<<< HEAD
 change in development branch ...Another push from another contributor
+=======
+change in development branch ...Another push from  developer3 ...Hello this my final commit
+
+>>>>>>> branch 'development' of https://github.com/vaibhavvyavhare45/test-git-branching.git
