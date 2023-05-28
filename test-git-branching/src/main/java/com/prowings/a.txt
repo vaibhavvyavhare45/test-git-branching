@@ -1,2 +1,11 @@
 
 Hello java  developer ... welcome to git branching
+java is robust
+change in development branch 
+java is strong
+change in development branch ...Another push from  developer3 ...Hello this my final commit
+java is secure
+java support muitiThreading
+java support automatic garbage collection
+java support strong exception handling features.
+agbdhjbjhankjn.
